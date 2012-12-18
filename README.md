@@ -1,4 +1,4 @@
-# Capistrano::Ssh
+# Capistrano SSH
 
 Open a ssh connection to one of the app servers.
 
