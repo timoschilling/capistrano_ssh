@@ -16,6 +16,10 @@ Or install it yourself as:
 
     $ gem install capistrano_ssh
 
+Require it in your Capfile or deploy.rb:
+
+    require "capistrano_ssh/recipes"
+
 ## Usage
 
     $ cap ssh
