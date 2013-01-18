@@ -24,6 +24,11 @@ Require it in your Capfile or deploy.rb:
 
     $ cap ssh
 
+## Todo / Roadmap
+
+* use Capistrano API to run command, not build it by hand
+* Tunnel support
+
 ## Contributing
 
 1. Fork it
